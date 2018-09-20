@@ -18,7 +18,7 @@ public class Strategy {
 		
 		System.out.println("Dog says: "+doddyAnimal.tryToFly());
 		
-		doddyAnimal.setFlyAvailable(new CantFlys());
+		doddyAnimal.setFlyAvailable(new CantFly());
 		
 		System.out.println("Dog says: "+doddyAnimal.tryToFly());
 	}

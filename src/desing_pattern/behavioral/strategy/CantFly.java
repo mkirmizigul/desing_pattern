@@ -1,6 +1,6 @@
 package desing_pattern.behavioral.strategy;
 
-public class CantFlys implements Flys {
+public class CantFly implements Flys {
 
 	@Override
 	public String fly() {

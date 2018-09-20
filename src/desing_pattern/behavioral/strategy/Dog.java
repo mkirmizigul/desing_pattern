@@ -6,7 +6,7 @@ public class Dog extends Animal {
 		super();
 		setSound("woowh");
 		
-		flysType=new CantFlys();
+		flysType=new CantFly();
 	}
 	
 }

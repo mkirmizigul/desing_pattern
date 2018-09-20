@@ -1,12 +1,6 @@
-package desing_pattern;
+package desing_pattern.behavioral.strategy;
 
-import desing_pattern.behavioral.strategy.Animal;
-import desing_pattern.behavioral.strategy.Bird;
-import desing_pattern.behavioral.strategy.CantFlys;
-import desing_pattern.behavioral.strategy.Dog;
-import desing_pattern.behavioral.strategy.ItsFlys;
-
-public class Main {
+public class Strategy {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
